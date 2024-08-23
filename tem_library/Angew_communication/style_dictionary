@@ -1,0 +1,10 @@
+# It is a dictionary of the style of the paper.
+{
+    'Title-': 'Title1',
+    'Author-': 'Authors',
+    'Abstract-': 'Abstract',
+    'MainText-': 'P1',
+    'Acknowledgements-': 'Acknowledgements',
+    'Keywords-': 'Keywords',
+    'References-': 'References'
+}

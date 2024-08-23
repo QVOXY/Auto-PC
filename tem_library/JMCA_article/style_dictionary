@@ -1,0 +1,10 @@
+# It is a dictionary of the style of the paper.
+{
+    'Title-': 'RSC H01 Paper Title',
+    'Author-': 'RSC H02 Paper Authors and Byline',
+    'Abstract-': 'RSC B01 ART Abstract',
+    'MainText-': 'RSC B02 Article Text',
+	'Conclusion-': 'RSC B02 Article Text',
+    'Acknowledgements-': 'RSC B02 Article Text',
+    'References-': 'RSC R02 References'
+}

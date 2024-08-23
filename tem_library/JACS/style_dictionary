@@ -1,0 +1,9 @@
+# It is a dictionary of the style of the paper.
+{
+    'Title-': 'BA_Title',
+    'Author-': 'BB_Author_Name',
+    'Abstract-': 'BD_Abstract',
+    'MainText-': 'TA_Main_Text',
+    'Acknowledgements-': 'TD_Acknowledgments',
+    'References-': 'TF_References_Section'
+}
