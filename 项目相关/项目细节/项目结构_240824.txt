@@ -1,0 +1,109 @@
+
+│  main.py
+│  run_scripts.py
+│
+├─fun_library
+│  │  Thesis_processing.py
+│
+├─para_library
+│      current_template
+│      paper_position
+│      style_dictionary
+│      transmit1
+│      transmit2
+│
+├─procedure
+│  ├─origin_file
+│  │
+│  ├─process1
+│  │
+│  ├─process2
+│  │
+│  ├─process3
+│  │
+│  ├─process4
+│  │
+│  └─tem_file
+│
+├─scripts_library
+│      choose_tem.py
+│      delete_keyword.py
+│      execute_srs.py
+│      remove_empty_line.py
+│      style_operation.py
+│      write_to_tem.py
+│
+├─srs_library
+│      srs1.py
+│      srs2.py
+│      srs3_1.py
+│      srs3_10.py
+│      srs3_2.py
+│      srs3_3.py
+│      srs3_4.py
+│      srs3_5.py
+│      srs3_6.py
+│      srs3_7.py
+│      srs3_8.py
+│      srs3_9.py
+│      srs4.py
+│
+├─tem_library
+│  ├─Adv_Mater
+│  │      preinstall_keylist
+│  │      style_dictionary
+│  │      tem.docx
+│  │
+│  ├─Angew_article
+│  │      preinstall_keylist
+│  │      style_dictionary
+│  │      tem.docx
+│  │
+│  ├─Angew_communication
+│  │      preinstall_keylist
+│  │      style_dictionary
+│  │      tem.docx
+│  │
+│  ├─JACS
+│  │      preinstall_keylist
+│  │      style_dictionary
+│  │      tem.docx
+│  │
+│  ├─JMCA_article
+│  │      preinstall_keylist
+│  │      style_dictionary
+│  │      tem.docx
+│  │
+│  ├─JMCA_chem_comm
+│  │      preinstall_keylist
+│  │      style_dictionary
+│  │      tem.docx
+│  │
+│  └─JMCA_communication
+│          preinstall_keylist
+│          style_dictionary
+│          tem.docx
+│
+└─tem_library_origin
+    ├─Adv_Mater
+    │      article-template.docx
+    │
+    ├─Angew_article
+    │      Angewandte Research Article.dotx
+    │
+    ├─Angew_communication
+    │      Angewandte Communication.dotx
+    │
+    ├─JACS
+    │      acsPageWide-MSW2010.dotx
+    │      acstemplate_word2010_readme.pdf
+    │
+    ├─JMCA_article
+    │      art-template-2.1new24.docx
+    │
+    ├─JMCA_chem_comm
+    │      chemcomm_com-template-1.1new24.docx
+    │
+    └─JMCA_communication
+            com-template-2.0new24.docx
+
